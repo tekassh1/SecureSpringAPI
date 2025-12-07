@@ -154,5 +154,7 @@ Authorization: Bearer <JWT>
 * Без токена доступ к защищённым эндпоинтам запрещён.
 
 # Скриншот отчета OWASP
+<img width="975" height="989" alt="image" src="https://github.com/user-attachments/assets/635c243d-51e7-4529-b70e-ae96f71e8ab6" />
 
 # Результат SpotBugs
+<img width="2166" height="490" alt="image" src="https://github.com/user-attachments/assets/32ca360d-b633-4094-b7c4-e19a65c4d1e9" />
